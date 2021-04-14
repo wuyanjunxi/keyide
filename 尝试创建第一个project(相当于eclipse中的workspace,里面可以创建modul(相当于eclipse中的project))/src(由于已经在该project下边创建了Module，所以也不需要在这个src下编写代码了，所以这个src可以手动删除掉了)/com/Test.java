@@ -7,4 +7,8 @@ public class Test {
         Object o = new Object();
     }
 
+    public  static void m(){
+        System.out.println("hello wordasdf");
+    }
+
 }
